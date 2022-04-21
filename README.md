@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Divyam
-- 👀 I’m interested in Cyber Security and Cloud Stuff...
+- 👋 Hi, My name is **Divyam** and i am 24 years old
 - 🌱 I’m currently advancing my DevOps journey ...
 
 <!---
